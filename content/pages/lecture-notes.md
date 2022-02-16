@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cefebb14-77f6-b0a6-a0b2-206dd0c01ceb
 ---
@@ -74,21 +77,21 @@ Chapter 4: Representations of Finite Groups: Further Results ([PDF]({{< baseurl 
 4.9 The Mackey formula  
 4.10 Frobenius reciprocity  
 4.11 Examples  
-4.12 Representations of _S_n  
+4.12 Representations of _S_{{< sub "n" >}}  
 4.13 Proof of theorem 4.36  
-4.14 Induced representations for _S_n  
+4.14 Induced representations for _S_{{< sub "n" >}}  
 4.15 The Frobenius character formula  
 4.16 Problems  
 4.17 The hook length formula  
 4.18 Schur-Weyl duality  
 4.19 Schur-Weyl duality for _GL_(V)  
 4.20 Schur polynomials  
-4.21 The characters of Lλ  
+4.21 The characters of L{{< sub "λ" >}}  
 4.22 Polynomial representations of _GL_(V)  
 4.23 Problems  
-4.24 Representations of _GL_2(Fq)
+4.24 Representations of _GL_{{< sub "2" >}}(F{{< sub "q" >}})
 
-4.24.1 Conjugacy classes in _GL_2(Fq)  
+4.24.1 Conjugacy classes in _GL_{{< sub "2" >}}(F{{< sub "q" >}})  
 4.24.2 1-dimensional representations  
 4.24.3 Principal series representations  
 4.24.4 Complementary series representations
@@ -101,7 +104,7 @@ Chapter 5: Quiver Representations ([PDF]({{< baseurl >}}/resources/mit18_712f10_
 
 5.1 Problems  
 5.2 Indecomposable representations of the quivers A1,A2,A3  
-5.3 Indecomposable representations of the quiver D4  
+5.3 Indecomposable representations of the quiver D{{< sub "4" >}}  
 5.4 Roots  
 5.5 Gabriel's theorem  
 5.6 Reflection functors  
