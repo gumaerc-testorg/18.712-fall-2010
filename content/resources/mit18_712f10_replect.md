@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cefebb14-77f6-b0a6-a0b2-206dd0c01ceb
 resourcetype: Document
 title: Introduction to representation theory
 uid: 24d8b3fa-2ce4-8e48-ee6c-2d8d5e3562f6
