@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: "This section provides the lecture notes from the course. The present\
+  \ lecture notes arose from a representation theory course given by Prof. Etingof\
+  \ in March 2004 within the framework of the Clay Mathematics Institute Research\
+  \ Academy for high school students. The students in that course \u2014 Oleg Golberg,\
+  \ Sebastian Hensel, Tiankai Liu, Alex Schwendner, Elena Yudovina, and Dmitry Vaintrob\
+  \ \u2014 co-authored the lecture notes which are published here with their permission."
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,16 +13,16 @@ title: Lecture Notes
 uid: cefebb14-77f6-b0a6-a0b2-206dd0c01ceb
 ---
 
-Students are assigned [readings]({{< baseurl >}}/pages/readings) in these lecture notes each week. The present lecture notes arose from a representation theory course given by Prof. Etingof in March 2004 within the framework of the [Clay Mathematics Institute Research Academy](http://www.claymath.org/index.php) for high school students. The students in that course — Oleg Golberg, Sebastian Hensel, Tiankai Liu, Alex Schwendner, Elena Yudovina, and Dmitry Vaintrob — co-authored the lecture notes which are published here with their permission.
+Students are assigned {{% resource_link 35165b3e-7d2b-0ab9-1660-f01179fffd3d "readings" %}} in these lecture notes each week. The present lecture notes arose from a representation theory course given by Prof. Etingof in March 2004 within the framework of the [Clay Mathematics Institute Research Academy](http://www.claymath.org/index.php) for high school students. The students in that course — Oleg Golberg, Sebastian Hensel, Tiankai Liu, Alex Schwendner, Elena Yudovina, and Dmitry Vaintrob — co-authored the lecture notes which are published here with their permission.
 
 The book _Introduction to Representation Theory_ based on these notes was published by the American Mathematical Society in 2016. A [complete file of the book (PDF - 1.1MB)](http://www-math.mit.edu/~etingof/repb.pdf) is on Prof. Etingof's webpage. \[Please note: This file cannot be posted on any website not belonging to the authors.\]
 
-Complete Lecture Notes ([PDF - 1.3MB]({{< baseurl >}}/resources/mit18_712f10_replect))
+Complete Lecture Notes ({{% resource_link 24d8b3fa-2ce4-8e48-ee6c-2d8d5e3562f6 "PDF - 1.3MB" %}})
 
-Introduction ([PDF]({{< baseurl >}}/resources/mit18_712f10_intro))
+Introduction ({{% resource_link 64ac0a7f-209d-3192-9d39-3a80e3ab85bb "PDF" %}})
 ------------------------------------------------------------------
 
-Chapter 1: Basic Notions of Representation Theory ([PDF]({{< baseurl >}}/resources/mit18_712f10_ch1))
+Chapter 1: Basic Notions of Representation Theory ({{% resource_link 6b7e3b72-77dc-8624-9ec4-0bb134186639 "PDF" %}})
 -----------------------------------------------------------------------------------------------------
 
 1.1 What is representation theory?  
@@ -35,7 +41,7 @@ Chapter 1: Basic Notions of Representation Theory ([PDF]({{< baseurl >}}/resourc
 1.14 Representations of sl(2)  
 1.15 Problems on Lie algebras
 
-Chapter 2: General Results of Representation Theory ([PDF]({{< baseurl >}}/resources/mit18_712f10_ch2))
+Chapter 2: General Results of Representation Theory ({{% resource_link 0721b66f-53c3-c196-ce86-d6d867514442 "PDF" %}})
 -------------------------------------------------------------------------------------------------------
 
 2.1 Subrepresentations in semisimple representations  
@@ -49,7 +55,7 @@ Chapter 2: General Results of Representation Theory ([PDF]({{< baseurl >}}/resou
 2.9 Problems  
 2.10 Representations of tensor products
 
-Chapter 3: Representations of Finite Groups: Basic Results ([PDF]({{< baseurl >}}/resources/mit18_712f10_ch3))
+Chapter 3: Representations of Finite Groups: Basic Results ({{% resource_link 0abca81c-8a50-d3d5-29fa-0fc3d3e5319a "PDF" %}})
 --------------------------------------------------------------------------------------------------------------
 
 3.1 Maschke's Theorem  
@@ -63,7 +69,7 @@ Chapter 3: Representations of Finite Groups: Basic Results ([PDF]({{< baseurl >}
 3.9 Computing tensor product multiplicities using character tables  
 3.10 Problems
 
-Chapter 4: Representations of Finite Groups: Further Results ([PDF]({{< baseurl >}}/resources/mit18_712f10_ch4))
+Chapter 4: Representations of Finite Groups: Further Results ({{% resource_link 84358595-a02a-73bc-ed2c-4e363a5d66f0 "PDF" %}})
 ----------------------------------------------------------------------------------------------------------------
 
 4.1 Frobenius-Schur indicator  
@@ -99,7 +105,7 @@ Chapter 4: Representations of Finite Groups: Further Results ([PDF]({{< baseurl 
 4.25 Artin's theorem  
 4.26 Representations of semidirect products
 
-Chapter 5: Quiver Representations ([PDF]({{< baseurl >}}/resources/mit18_712f10_ch5))
+Chapter 5: Quiver Representations ({{% resource_link cabe7aec-8816-cbba-9780-80c2f1cf5e82 "PDF" %}})
 -------------------------------------------------------------------------------------
 
 5.1 Problems  
@@ -112,7 +118,7 @@ Chapter 5: Quiver Representations ([PDF]({{< baseurl >}}/resources/mit18_712f10_
 5.8 Proof of Gabriel's theorem  
 5.9 Problems
 
-Chapter 6: Introduction to Categories ([PDF]({{< baseurl >}}/resources/mit18_712f10_ch6))
+Chapter 6: Introduction to Categories ({{% resource_link fb4599a4-5822-88fb-3372-f7ecb0509978 "PDF" %}})
 -----------------------------------------------------------------------------------------
 
 6.1 The definition of a category  
@@ -124,7 +130,7 @@ Chapter 6: Introduction to Categories ([PDF]({{< baseurl >}}/resources/mit18_712
 6.7 Abelian categories  
 6.8 Exact functors
 
-Chapter 7: Structure of Finite Dimensional Algebras ([PDF]({{< baseurl >}}/resources/mit18_712f10_ch7))
+Chapter 7: Structure of Finite Dimensional Algebras ({{% resource_link 70961c08-4499-0526-81ef-b7485af37858 "PDF" %}})
 -------------------------------------------------------------------------------------------------------
 
 7.1 Projective modules  

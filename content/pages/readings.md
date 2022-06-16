@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the weekly reading assignments for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: 35165b3e-7d2b-0ab9-1660-f01179fffd3d
 ---
 
-Readings are assigned weekly in the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+Readings are assigned weekly in the {{% resource_link cefebb14-77f6-b0a6-a0b2-206dd0c01ceb "lecture notes" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

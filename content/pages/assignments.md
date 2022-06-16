@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course along with
+  the take-home final assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: 7ec2219c-b640-d1f2-5b45-df0c0c9789bf
 ---
 
-The homework problems are found in the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+The homework problems are found in the {{% resource_link cefebb14-77f6-b0a6-a0b2-206dd0c01ceb "lecture notes" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -124,4 +126,4 @@ Problems 5.39-5.41
 
 {{< tableclose >}}
 
-Take-home final assignment ([PDF]({{< baseurl >}}/resources/mit18_712f10_712tk))
+Take-home final assignment ({{% resource_link e1bcbdf2-202b-c6f8-d7fb-533d39a444ab "PDF" %}})
