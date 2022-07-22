@@ -5,6 +5,7 @@ file: /courses/18-712-introduction-to-representation-theory-fall-2010/64ac0a7f20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction
 uid: 64ac0a7f-209d-3192-9d39-3a80e3ab85bb
 ---
 Introduction to a complete set of lecture notes on representation theory.
-
