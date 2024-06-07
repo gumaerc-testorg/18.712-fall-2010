@@ -2,6 +2,7 @@
 content_type: resource
 description: Introduction to a complete set of lecture notes on representation theory.
 file: /courses/18-712-introduction-to-representation-theory-fall-2010/64ac0a7f209d31929d393a80e3ab85bb_MIT18_712F10_intro.pdf
+file_size: 88045
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
