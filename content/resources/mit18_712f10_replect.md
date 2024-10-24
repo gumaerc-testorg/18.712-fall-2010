@@ -3,7 +3,7 @@ content_type: resource
 description: A complete set of lecture notes on the basic notions of representation
   theory, general results of representation theory, representations of finite groups,
   quiver representations, categories, and the structure of finite dimensional algebras.
-file: /courses/18-712-introduction-to-representation-theory-fall-2010/24d8b3fa2ce48e48ee6c2d8d5e3562f6_MIT18_712F10_replect.pdf
+file: /ol-ocw-studio-app/courses/18-712-introduction-to-representation-theory-fall-2010/24d8b3fa2ce48e48ee6c2d8d5e3562f6_MIT18_712F10_replect.pdf
 file_size: 1403098
 file_type: application/pdf
 learning_resource_types:
