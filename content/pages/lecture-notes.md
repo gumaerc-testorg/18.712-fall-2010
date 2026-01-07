@@ -13,9 +13,9 @@ title: Lecture Notes
 uid: cefebb14-77f6-b0a6-a0b2-206dd0c01ceb
 ---
 
-Students are assigned {{% resource_link 35165b3e-7d2b-0ab9-1660-f01179fffd3d "readings" %}} in these lecture notes each week. The present lecture notes arose from a representation theory course given by Prof. Etingof in March 2004 within the framework of the {{% resource_link "8f975e55-f4fb-4e0a-8620-54dcebc741a3" "Clay Mathematics Institute Research Academy" %}} for high school students. The students in that course — Oleg Golberg, Sebastian Hensel, Tiankai Liu, Alex Schwendner, Elena Yudovina, and Dmitry Vaintrob — co-authored the lecture notes which are published here with their permission.
+Students are assigned {{% resource_link 35165b3e-7d2b-0ab9-1660-f01179fffd3d "readings" %}} in these lecture notes each week. The present lecture notes arose from a representation theory course given by Prof. Etingof in March 2004 within the framework of the [Clay Mathematics Institute Research Academy](http://www.claymath.org/index.php) for high school students. The students in that course — Oleg Golberg, Sebastian Hensel, Tiankai Liu, Alex Schwendner, Elena Yudovina, and Dmitry Vaintrob — co-authored the lecture notes which are published here with their permission.
 
-The book _Introduction to Representation Theory_ based on these notes was published by the American Mathematical Society in 2016. A {{% resource_link "9a7b44b6-9a6b-4bd5-b3f1-16d673bb533c" "complete file of the book (PDF - 1.1MB)" %}} is on Prof. Etingof's webpage. \[Please note: This file cannot be posted on any website not belonging to the authors.\]
+The book _Introduction to Representation Theory_ based on these notes was published by the American Mathematical Society in 2016. A [complete file of the book (PDF - 1.1MB)](http://www-math.mit.edu/~etingof/repb.pdf) is on Prof. Etingof's webpage. \[Please note: This file cannot be posted on any website not belonging to the authors.\]
 
 Complete Lecture Notes ({{% resource_link 24d8b3fa-2ce4-8e48-ee6c-2d8d5e3562f6 "PDF - 1.3MB" %}})
 
